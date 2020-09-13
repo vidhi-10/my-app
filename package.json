@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.0.0",
-  "homepage": "index.html",
+  "homepage": "./",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
