@@ -6,7 +6,7 @@ import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
 import { ListingsComponent } from './listing/listings.component';
 import { ContactComponent } from './contact/contact.component';
-import { TestimonialsComponent } from './testimonials/testimonials.component';
+import { TestimonialComponent } from './testimonial/testimonial.component';
 import { AboutComponent } from './about/about.component';
 import { BlogComponent } from './blog/blog.component';
 import { BodyComponent } from './body/body.component';
@@ -17,7 +17,7 @@ import { BodyComponent } from './body/body.component';
     HeaderComponent,
     ListingsComponent,
     ContactComponent,
-    TestimonialsComponent,
+    TestimonialComponent,
     AboutComponent,
     BlogComponent,
     BodyComponent
